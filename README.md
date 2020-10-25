@@ -1,4 +1,4 @@
-Artificial Intelligence project '16 soldiers with minimax algorithm'
+<h1>Artificial Intelligence project '16 soldiers with minimax algorithm'</h1>
 
 
 It's a game called '16 soldiers' or '16 guti' or 'damru' made by C++ programming language using OpenGL library. 
