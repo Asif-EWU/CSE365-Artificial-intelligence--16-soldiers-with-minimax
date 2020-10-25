@@ -1,3 +1,6 @@
+Artificial Intelligence project '16 soldiers with minimax algorithm'
+
+
 It's a game called '16 soldiers' or '16 guti' or 'damru' made by C++ programming language using OpenGL library. 
 
 For OpenGL setup follow this link: https://www.youtube.com/watch?v=HtJAQS2YDCY
